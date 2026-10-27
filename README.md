@@ -100,17 +100,6 @@ A computer vision project focused on detecting humans from image data.
 
 ---
 
-## 🎯 Areas of Interest
-
-* 🌐 Full-Stack Web Development
-* 📊 Data Science & Data Analysis
-* 🐍 Python Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 🗄️ Database Design and Management
-* 💡 Software Engineering and Problem Solving
-
----
-
 ## 🌱 Currently Learning
 
 * Improving Python programming and software development practices.
